@@ -1,6 +1,8 @@
-# Kode fra kurs kvelden
+# Kode fra kurset
 
-Her er koden fra kurset. Merk følgende:
+Her er koden fra kurset og et par notater som det er viktig å få med seg.
+
+Merk at selve koden fins i katalogen src/javakurs/usn2018/eksamen. Beklager dette, men det er sånn Java fungerer.
 
 ## Feil eller unøyaktigheter
 
